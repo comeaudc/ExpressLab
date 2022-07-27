@@ -1,0 +1,19 @@
+<head>
+    <title> #title# </title>
+</head>
+<body>
+    <nav>
+        #links#
+    </nav>
+    <header>
+        <h1> #message# </h1>
+    </header>
+    <div> 
+        <h3>State Motto:</h3>
+        #content# <br>
+        <h3>Fun Fact:</h3>
+        #fact# <br>
+        #image#
+    </div>
+</body>
+</body>

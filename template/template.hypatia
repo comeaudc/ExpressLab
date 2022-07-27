@@ -1,0 +1,15 @@
+<head>
+    <title> #title# </title>
+</head>
+<body>
+    <nav>
+        #links#
+    </nav>
+    <header>
+        <h1> #message# </h1>
+    </header>
+    <div> 
+        #content# <br>
+        #image#
+    </div>
+</body>
